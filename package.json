@@ -6,6 +6,7 @@
   "scripts": {
     "sass": "sass -w scss:css"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
